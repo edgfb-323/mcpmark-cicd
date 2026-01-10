@@ -1,5 +1,4 @@
-const unusedVar = "test";
-console.log("hello world");
+// Example file with fixed linting errors
 function example() {
-  return "test"
+  return 'test';
 }
